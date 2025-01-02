@@ -1,5 +1,5 @@
 ### 🖐️ Olá, eu sou o Leonardo Ferreira 
-#### Graduado na Universidade de Mogi das Cruzes tendo finalizado o curso de Sistema de Informação. Apaixonado por programação e sempre com foco de evoluir minhas habilidades,adquirir mais conhecimento e superar novos desafios!
+#### Graduado na Universidade de Mogi das Cruzes tendo finalizado o curso de Sistema de Informação. Apaixonado por programação e sempre com foco de evoluir minhas habilidades, buscando adquirir mais conhecimento e superar novos desafios!
 ---
 ### 🚀 Linguagens e Tecnologias 
 
@@ -62,18 +62,16 @@
 />
 
 ### Estatísticas:
-<p>
-    <img
-        aligh="left"
-        alt="Github Stats"
-        height="200"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=leonardo-ferreiraa&show_icons=true&theme=dracula&include_all_commits=true&locate=pt-br"
+<img
+    aligh="left"
+    alt="Github Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=leonardo-ferreiraa&show_icons=true&theme=dracula&include_all_commits=true&locate=pt-br"
     />
     <img
-        aligh="left"
-        alt="Github Stats"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-ferreiraa&layout=compact&theme=dracula&custom_title=Tecnologias&langs_count=9"
-    />
-</p>
+    aligh="left"
+    alt="Github Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-ferreiraa&layout=compact&theme=dracula&custom_title=Tecnologias&langs_count=7"
+/>
+
