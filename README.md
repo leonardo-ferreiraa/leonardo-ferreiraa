@@ -71,7 +71,7 @@
     <img
     aligh="left"
     alt="Github Stats"
-    height="200"
+    height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-ferreiraa&layout=compact&theme=dracula&custom_title=Tecnologias&langs_count=7"
 />
 
