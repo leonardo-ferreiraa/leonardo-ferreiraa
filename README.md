@@ -68,7 +68,7 @@
         alt="Github Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=leonardo-ferreiraa&show_icons=true&theme=dracula&custom_title=Estatisticas do Github de Leonardo Ferreira"
+        src="https://github-readme-stats.vercel.app/api?username=leonardo-ferreiraa&show_icons=true&theme=dracula&include_all_commits=true&locate=pt-br"
     />
     <img
         aligh="left"
